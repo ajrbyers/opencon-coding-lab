@@ -1,5 +1,5 @@
-Install conda from:
-
+# Setting Up Conda
+## Install conda
 `https://conda.io/miniconda.html`
 
 on Windows run the .exe, on macs and linux run the bash script with:
@@ -12,7 +12,7 @@ or
 
 Follow the onscreen instructions to install conda.
 
-Next we want to create a conda environment with:
+# Create a conda environment
 
 `conda create --name opencon2018 python=3.7 matplotlib numpy jupyterlab`
 
