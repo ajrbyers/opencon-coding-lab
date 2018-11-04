@@ -4,7 +4,7 @@ Install conda from:
 
 on Windows run the .exe, on macs and linux run the bash script with:
 
-`sh sh Miniconda3-latest-Linux-x86_64.sh`
+`sh Miniconda3-latest-Linux-x86_64.sh`
 
 or 
 
